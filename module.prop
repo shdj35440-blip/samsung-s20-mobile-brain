@@ -1,0 +1,7 @@
+id: my_zygisk_module
+name: My Zygisk Module
+version: 1.0
+versionCode: 1
+author: shdj35440-blip
+description: A Zygisk module for Samsung S20 Mobile Brain.
+platform: android
